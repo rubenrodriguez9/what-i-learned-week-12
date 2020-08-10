@@ -41,4 +41,7 @@ item.addEventListener(): creates an event that happens from a type of user inter
 
 
 item.classList(): shows what classes are on the selected item
-item.
+item.replace(): replaces the item with another.
+item.add(): adds an attribute
+item.remove(): removes an attribute
+item.toggle(): toggles an attribute
